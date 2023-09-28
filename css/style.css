@@ -1,0 +1,82 @@
+.papularbook-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30461.jpg?w=740&t=st=1695895319~exp=1695895919~hmac=effbef3814bfc595a825101e7be72838f87ce750f506f00fb7696b12ca0baf4c");
+    padding: 25px;
+}
+.main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+}
+.mian-img-card{
+    width: 300px;
+    margin-right: 20px;
+}
+.card {
+    margin-bottom: 20px;
+    background-color: aqua;
+}
+.image {
+    margin-right: 20px;
+    width: 100px;
+}
+.main-card-heading {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.main-card-paragraph {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.recomended-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+.heading {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 28px;
+}
+.paragraph{
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.authorname-section2 {
+    color: #ffffff;
+}
+.button {
+    width: 100px;
+}
+.button-section {
+    margin-right: 10px;
+}
+.image-card {
+    width:500px
+}
+.heading-card {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+.paragraph-card{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.papularbook-bg-container-card {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh; 
+    background-image: url("https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30461.jpg?w=740&t=st=1695895319~exp=1695895919~hmac=effbef3814bfc595a825101e7be72838f87ce750f506f00fb7696b12ca0baf4c");
+    padding: 25px;
+}
+
+
